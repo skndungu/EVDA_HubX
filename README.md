@@ -10,5 +10,5 @@
 - [x] Switched 5V trigger changed from optocouplers to Mosfets 
 - [x] Screw terminals and usb updates
 - [x] Power connectors changed from screw connecors to idc type
-- [x] RS232 port enabled on the 12V uart port 
+- [x] RS232 port enabled on the 12V uart port as well as vr1 (on uart3) => direct
 - [x] ESP-32 SPI all on `SPI3`
