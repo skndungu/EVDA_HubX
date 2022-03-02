@@ -1,8 +1,8 @@
-# EVDA HubX
-v06 
+# :wrench: EVDA HubX 
+## v06  
 ![usb_evda_hubX_v06_11](https://user-images.githubusercontent.com/20322653/156302844-56a687e5-604b-4895-b2a5-2a926948b257.png)
 
-## EVDA HubX v07 updates based on v06
+##  :seedling: EVDA HubX v07 updates based on v06
 
 - [x] Boot pin update for stm32 
 - [x] Esp32 reset and boot buttons added 
